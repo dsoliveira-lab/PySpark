@@ -11,7 +11,7 @@ PySpark é uma biblioteca Spark escrita em Python, e seu objetivo é permitir a 
 
 ### Data
 
-Os dados para esse tutorial foram obtidos no  [Kaggle](https://www.kaggle.com/anninasimon/employee-salary-dataset), a base é pequena, então teoricamente utilizar o pyspark nesse caso seria "matar uma mosca com um canhão", mas como objetivo é explorar as principais funções, esse dataset vai nos atender bem.
+Os dados para esse tutorial foram obtidos no  [Kaggle](https://www.kaggle.com/anninasimon/employee-salary-dataset), a base é pequena, então teoricamente utilizar o pyspark nesse caso seria "matar uma mosca com um canhão", mas como o objetivo é explorar as principais funções, esse dataset vai nos atender bem.
 
 ###### Para fazer download desse conjunto de dados você precisa ter uma conta no kaggle.
 
@@ -26,7 +26,7 @@ Vamos explorar as principais funções:
 * WithColumnRenamed
 * WithColumn
 * When
-* drop
+* Drop
 * Filter
 * Where
 * GroupBy
